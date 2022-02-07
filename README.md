@@ -1,4 +1,4 @@
-# [AdminLTE - Bootstrap 4 Admin Dashboard](https://adminlte.io)
+# [AdminLTE RTL - Bootstrap 4 Admin Dashboard](https://adminlte.io)
 
 [![npm version](https://img.shields.io/npm/v/admin-lte/latest.svg)](https://www.npmjs.com/package/admin-lte)
 [![Packagist](https://img.shields.io/packagist/v/almasaeed2010/adminlte.svg)](https://packagist.org/packages/almasaeed2010/adminlte)
@@ -10,79 +10,9 @@ Highly customizable and easy to use. Fits many screen resolutions from small mob
 
 **Preview on [AdminLTE.io](https://adminlte.io/themes/v3)**
 
-## Looking for Premium Templates?
+## Looking for RTL Templates?
 
-AdminLTE.io just opened a new premium templates page. Hand picked to ensure the best quality and the most affordable
-prices. Visit <https://adminlte.io/premium> for more information.
-
-!["AdminLTE Presentation"](https://adminlte.io/AdminLTE3.png "AdminLTE Presentation")
-
-**AdminLTE** has been carefully coded with clear comments in all of its JS, SCSS and HTML files.
-SCSS has been used to increase code customizability.
-
-## Quick start
-There are multiple ways to install AdminLTE.
-
-### Download & Changelog:
-Always Recommended to download from GitHub latest release [AdminLTE 3](https://github.com/ColorlibHQ/AdminLTE/releases/latest) for bug free and latest features.\
-Visit the [releases](https://github.com/ColorlibHQ/AdminLTE/releases) page to view the changelog.\
-Legacy Releases are [AdminLTE 2](https://github.com/ColorlibHQ/AdminLTE/releases/tag/v2.4.18) / [AdminLTE 1](https://github.com/ColorlibHQ/AdminLTE/releases/tag/1.3.1).
-
-## Stable release
-### Grab from [jsdelivr](https://www.jsdelivr.com/package/npm/admin-lte) CDN:
-_**Important Note**: You needed to add separately cdn links for plugins in your project._
-```html
-<script src="https://cdn.jsdelivr.net/npm/admin-lte@3.1/dist/js/adminlte.min.js"></script>
-```
-```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@3.1/dist/css/adminlte.min.css">
-```
-### Using The Command Line:
-_**Important Note**: To install it via npm/Yarn, you need at least Node.js 10 or higher._
-#### Via npm
-```bash
-npm install admin-lte@^3.1 --save
-```
-#### Via Yarn
-```bash
-yarn add admin-lte@^3.1
-```
-#### Via Composer
-```bash
-composer require "almasaeed2010/adminlte=~3.1"
-```
-#### Via Git
-```bash
-git clone https://github.com/ColorlibHQ/AdminLTE.git
-```
-
-## Unstable release
-### Grab from [jsdelivr](https://www.jsdelivr.com/package/npm/admin-lte) CDN:
-_**Important Note**: You needed to add separately cdn links for plugins in your project._
-```html
-<script src="https://cdn.jsdelivr.net/npm/admin-lte@3.1.0/dist/js/adminlte.min.js"></script>
-```
-```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@3.1.0/dist/css/adminlte.min.css">
-```
-### Using The Command Line:
-_**Important Note**: To install it via npm/Yarn, you need at least Node.js 10 or higher._
-#### Via npm
-```bash
-npm install admin-lte@^3.1.0 --save
-```
-#### Via Yarn
-```bash
-yarn add admin-lte@^3.1.0
-```
-#### Via Composer
-```bash
-composer require "almasaeed2010/adminlte=~3.1.0"
-```
-#### Via Git
-```bash
-git clone https://github.com/ColorlibHQ/AdminLTE.git
-```
+!["AdminLTE RTL Presentation"](Screenshot.png "AdminLTE RTL Presentation")
 
 ## Documentation
 
@@ -95,31 +25,11 @@ updated guide. Information will be added on a weekly basis.
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | IE10, IE11, Edge| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions
 
-### Compile dist files
-
-To compile the dist files you need Node.js/npm, clone/download the repo then:
-
-1. `npm install` (install npm deps)
-2. _Optional:_ `npm run dev` (developer mode, autocompile with browsersync support for live demo)
-3. `npm run production` (compile css/js files)
-
-
 ## Contributing
 
-Please read through our [contributing guidelines](https://github.com/ColorlibHQ/AdminLTE/tree/master/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/main/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
-
+Please read through our [contributing guidelines](https://github.com/ahmed-fawzy-metwally/AdminLTE-3.1-RTL/tree/master/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
 ## License
 
-AdminLTE is an open source project by [AdminLTE.io](https://adminlte.io) that is licensed under [MIT](https://opensource.org/licenses/MIT).
+AdminLTE-3.1-RTL is an open source project by [Ahmed Fawzy](https://github.com/ahmed-fawzy-metwally) that is licensed under [MIT](https://opensource.org/licenses/MIT).
 AdminLTE.io reserves the right to change the license of future releases.
-
-## Image Credits
-
-- [Pixeden](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd)
-- [Graphicsfuel](https://www.graphicsfuel.com/2013/02/13-high-resolution-blur-backgrounds/)
-- [Pickaface](https://pickaface.net/)
-- [Unsplash](https://unsplash.com/)
-- [Uifaces](http://uifaces.com/)
